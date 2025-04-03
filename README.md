@@ -42,6 +42,7 @@ The dataset consists of booking information , covering various services such as 
 - Themes
 - Instructor
 - Class
+
 Power BI was used for data transformation and visualization.<br>
 The cleaned dataset was imported, along with separate datasets for theme, instructor, and classtype.<br>
 A star schema was created to define relationships between tables.<br>
