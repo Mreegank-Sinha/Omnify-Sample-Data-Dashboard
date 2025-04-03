@@ -110,7 +110,7 @@ Quarterly groupings appeared unexpectedly in Power BI and were removed for accur
 ![image](https://github.com/user-attachments/assets/338c98e0-51d1-4bad-96c2-546251064944)
 
 • Donut charts for classtype, instructor, and theme helped analyze customer preferences.<br>
-![image](https://github.com/user-attachments/assets/fbf89305-68c5-47b5-a52d-f968abfd92c4)![image](https://github.com/user-attachments/assets/803e43b7-3458-4e04-afaf-78d0e6fec83e)
+![image](https://github.com/user-attachments/assets/fbf89305-68c5-47b5-a52d-f968abfd92c4)  ![image](https://github.com/user-attachments/assets/803e43b7-3458-4e04-afaf-78d0e6fec83e)
 
 
 • Toggle buttons for Confirmed, Pending, and All Bookings allowed easy filtering.<br>
