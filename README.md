@@ -79,14 +79,14 @@ A measure for Total Revenue was created for financial analysis.<br>
 Quarterly groupings appeared unexpectedly in Power BI and were removed for accurate reporting.<br>
 
 ## Dashboard Creation
-• A Total Revenue card was created to display overall earnings.
-• Date sliders were added to filter bookings by month and date.
-• A bar chart showing revenue by customers helped identify top spenders.
-• A bar chart of booking type by date revealed popular services over time.
-• A revenue by booking type chart highlighted high and low-earning services.
-• A line graph of booking revenue trends showcased daily and monthly sales patterns.
-• A chart displaying bookings by time slot identified peak booking hours.
-• A Top 5 Customers chart highlighted the highest-paying customers.
-• Donut charts for classtype, instructor, and theme helped analyze customer preferences.
-• Toggle buttons for Confirmed, Pending, and All Bookings allowed easy filtering.
-•The final dashboard provided actionable insights on revenue, bookings, and customer trends.
+• A Total Revenue card was created to display overall earnings.<br>
+• Date sliders were added to filter bookings by month and date.<br>
+• A bar chart showing revenue by customers helped identify top spenders.<br>
+• A bar chart of booking type by date revealed popular services over time.<br>
+• A revenue by booking type chart highlighted high and low-earning services.<br>
+• A line graph of booking revenue trends showcased daily and monthly sales patterns.<br>
+• A chart displaying bookings by time slot identified peak booking hours.<br>
+• A Top 5 Customers chart highlighted the highest-paying customers.<br>
+• Donut charts for classtype, instructor, and theme helped analyze customer preferences.<br>
+• Toggle buttons for Confirmed, Pending, and All Bookings allowed easy filtering.<br>
+•The final dashboard provided actionable insights on revenue, bookings, and customer trends.<br>
