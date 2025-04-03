@@ -37,10 +37,33 @@ The dataset consists of booking information , covering various services such as 
 • Columns theme, instructor, and classtype contained partial null values; separate datasets were created for non-null values.<br>
 • The dataset was exported as .csv files after cleaning for dashboard creation in Power BI.<br>
 
+## ETL
+#### The prerequiste to ETL was to create three new datasets for proper analysis.
+- Themes
+- Instructor
+- Class
+Power BI was used for data transformation and visualization.<br>
+The cleaned dataset was imported, along with separate datasets for theme, instructor, and classtype.<br>
+A star schema was created to define relationships between tables.<br>
+![image](https://github.com/user-attachments/assets/8959f55e-d02b-44e5-bcc2-4b41809be8fe)
 
+A new column months was derived from bookingdate to format dates as “DD MMM YY” (e.g., 01 JUN 25).<br>
+![image](https://github.com/user-attachments/assets/7f208c76-6fbe-4676-85fb-b5089e7674b8)
 
+A measure for Total Revenue was created for financial analysis.<br>
+![image](https://github.com/user-attachments/assets/c6cfaf89-eb9d-42db-bad2-aba84527c83b)
 
+Quarterly groupings appeared unexpectedly in Power BI and were removed for accurate reporting.<br>
 
-
-
-
+## Dashboard Creation
+• A Total Revenue card was created to display overall earnings.
+• Date sliders were added to filter bookings by month and date.
+• A bar chart showing revenue by customers helped identify top spenders.
+• A bar chart of booking type by date revealed popular services over time.
+• A revenue by booking type chart highlighted high and low-earning services.
+• A line graph of booking revenue trends showcased daily and monthly sales patterns.
+• A chart displaying bookings by time slot identified peak booking hours.
+• A Top 5 Customers chart highlighted the highest-paying customers.
+• Donut charts for classtype, instructor, and theme helped analyze customer preferences.
+• Toggle buttons for Confirmed, Pending, and All Bookings allowed easy filtering.
+•The final dashboard provided actionable insights on revenue, bookings, and customer trends.
