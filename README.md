@@ -92,26 +92,50 @@ Quarterly groupings appeared unexpectedly in Power BI and were removed for accur
 
 • A bar chart showing revenue by customers helped identify top spenders.<br>
 
+
 ![image](https://github.com/user-attachments/assets/5fc11bf2-1c88-4499-a2ee-bba88f1f28db)
 
+
 • A bar chart of booking type by date revealed popular services over time.<br>
+
+
 ![image](https://github.com/user-attachments/assets/68e815a6-8d4c-4a36-a9ea-d0bea2cb1125)
 
+
 • A revenue by booking type chart highlighted high and low-earning services.<br>
+
+
 ![image](https://github.com/user-attachments/assets/1dd5d2a7-17d9-4822-89b8-26d15ed11dbd)
 
+
 • A line graph of booking revenue trends showcased daily and monthly sales patterns.<br>
+
+
 ![image](https://github.com/user-attachments/assets/0062c1b6-f7ae-4b38-b90e-233cf8dc4474)
 
+
 • A chart displaying bookings by time slot identified peak booking hours.<br>
+
+
 ![image](https://github.com/user-attachments/assets/12d9611f-f95f-429f-8745-e2bde48e0973)
 
+
 • A Top 5 Customers chart highlighted the highest-paying customers.<br>
+
+
 ![image](https://github.com/user-attachments/assets/338c98e0-51d1-4bad-96c2-546251064944)
 
+
 • Donut charts for classtype, instructor, and theme helped analyze customer preferences.<br>
+
+
 ![image](https://github.com/user-attachments/assets/fbf89305-68c5-47b5-a52d-f968abfd92c4)  ![image](https://github.com/user-attachments/assets/803e43b7-3458-4e04-afaf-78d0e6fec83e)
 
 
 • Toggle buttons for Confirmed, Pending, and All Bookings allowed easy filtering.<br>
+
+
+![image](https://github.com/user-attachments/assets/ee1bf3d9-b652-41d3-9356-dc74612a0d87)
+
+
 • The final dashboard provided actionable insights on revenue, bookings, and customer trends.<br>
