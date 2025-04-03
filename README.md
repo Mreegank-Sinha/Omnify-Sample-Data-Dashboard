@@ -26,8 +26,14 @@ The dataset consists of booking information , covering various services such as 
 ## Exploratory Data Analysis
 • The dataset was explored using PostgreSQL and Excel to identify inconsistencies, missing values, and patterns.<br>
 • The subscriptiontype column contained all null values and was dropped.<br>
+![image](https://github.com/user-attachments/assets/91f05dee-4175-4936-bbe1-d128307111b9)
+
 • The price column was sorted to check for anomalies, and entries with a price of 0 were removed.<br>
+![image](https://github.com/user-attachments/assets/6abb1152-d205-4a7c-8c69-f535a8ac7409)
+
 • The status column had 462 entries marked as Pending and 423 as Confirmed.<br>
+![image](https://github.com/user-attachments/assets/c0620fce-faf3-4f2e-97ef-f08b3fce4e68)
+
 • Columns theme, instructor, and classtype contained partial null values; separate datasets were created for non-null values.<br>
 • The dataset was exported as .csv files after cleaning for dashboard creation in Power BI.<br>
 
