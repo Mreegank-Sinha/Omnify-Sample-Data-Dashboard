@@ -10,7 +10,7 @@ A multi-service business requires a data-driven approach to optimize its booking
 
 ## Dataset
 The dataset consists of booking information , covering various services such as class bookings, subscriptions, facility rentals, and birthday party reservations. The dataset is structured with multiple columns, each representing different attributes related to bookings, customers, and services. Given its real-world nature, the dataset contains inconsistencies, missing values, and redundant information that require cleaning and preprocessing.
-
+<br>
 ![image](https://github.com/user-attachments/assets/dad80c12-ff1b-4d03-9d78-dd0432df8589)
 
 ## Loading the Dataset
@@ -20,23 +20,23 @@ The dataset consists of booking information , covering various services such as 
 •	Select table and open Query Tab.<br>
 •	In Query write the query to create table with necessary columns and data types.<br>
 •	When table is created load dataset namely the .csv file created.<br>
-
+<br>
 ![image](https://github.com/user-attachments/assets/485a2ab1-13aa-4b92-9a58-b7c5fe091c76)
 
 ## Exploratory Data Analysis
 • The dataset was explored using PostgreSQL and Excel to identify inconsistencies, missing values, and patterns.<br>
 • The subscriptiontype column contained all null values and was dropped.<br>
-
+<br>
 ![image](https://github.com/user-attachments/assets/91f05dee-4175-4936-bbe1-d128307111b9)
-
+<br>
 • The price column was sorted to check for anomalies, and entries with a price of 0 were removed.<br>
-
+<br>
 ![image](https://github.com/user-attachments/assets/6abb1152-d205-4a7c-8c69-f535a8ac7409)
-
+<br>
 • The status column had 462 entries marked as Pending and 423 as Confirmed.<br>
-
+<br>
 ![image](https://github.com/user-attachments/assets/c0620fce-faf3-4f2e-97ef-f08b3fce4e68)
-
+<br>
 • Columns theme, instructor, and classtype contained partial null values; separate datasets were created for non-null values.<br>
 • The dataset was exported as .csv files after cleaning for dashboard creation in Power BI.<br>
 
@@ -49,14 +49,17 @@ The dataset consists of booking information , covering various services such as 
 Power BI was used for data transformation and visualization.<br>
 The cleaned dataset was imported, along with separate datasets for theme, instructor, and classtype.<br>
 A star schema was created to define relationships between tables.<br>
+<br>
 ![image](https://github.com/user-attachments/assets/8959f55e-d02b-44e5-bcc2-4b41809be8fe)
-
+<br>
 A new column months was derived from bookingdate to format dates as “DD MMM YY” (e.g., 01 JUN 25).<br>
+<br>
 ![image](https://github.com/user-attachments/assets/7f208c76-6fbe-4676-85fb-b5089e7674b8)
-
+<br>
 A measure for Total Revenue was created for financial analysis.<br>
+<br>
 ![image](https://github.com/user-attachments/assets/c6cfaf89-eb9d-42db-bad2-aba84527c83b)
-
+<br>
 Quarterly groupings appeared unexpectedly in Power BI and were removed for accurate reporting.<br>
 
 ## Dashboard Creation
