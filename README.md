@@ -14,9 +14,9 @@ The dataset consists of booking information , covering various services such as 
 ![image](https://github.com/user-attachments/assets/dad80c12-ff1b-4d03-9d78-dd0432df8589)
 
 ## Loading the Dataset
-•	PostgressSQL and Excel were used for EDA of the dataset.
-•	Converted .xlsx file to .csv using excel
-•	Created a new schema named internship_assignment in Postgress.
-•	Select table and open Query Tab.
-•	In Query write the query to create table with necessary columns and data types.
-•	When table is created load dataset namely the .csv file created
+• PostgressSQL and Excel were used for EDA of the dataset.<br>
+•	Converted .xlsx file to .csv using excel.<br>
+•	Created a new schema named internship_assignment in Postgress.<br>
+•	Select table and open Query Tab.<br>
+•	In Query write the query to create table with necessary columns and data types.<br>
+•	When table is created load dataset namely the .csv file created.<br>
