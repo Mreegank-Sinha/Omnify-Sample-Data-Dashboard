@@ -20,3 +20,21 @@ The dataset consists of booking information , covering various services such as 
 •	Select table and open Query Tab.<br>
 •	In Query write the query to create table with necessary columns and data types.<br>
 •	When table is created load dataset namely the .csv file created.<br>
+
+![image](https://github.com/user-attachments/assets/485a2ab1-13aa-4b92-9a58-b7c5fe091c76)
+
+## Exploratory Data Analysis
+• The dataset was explored using PostgreSQL and Excel to identify inconsistencies, missing values, and patterns.<br>
+• The subscriptiontype column contained all null values and was dropped.<br>
+• The price column was sorted to check for anomalies, and entries with a price of 0 were removed.<br>
+• The status column had 462 entries marked as Pending and 423 as Confirmed.<br>
+• Columns theme, instructor, and classtype contained partial null values; separate datasets were created for non-null values.<br>
+• The dataset was exported as .csv files after cleaning for dashboard creation in Power BI.<br>
+
+
+
+
+
+
+
+
