@@ -80,6 +80,11 @@ Quarterly groupings appeared unexpectedly in Power BI and were removed for accur
 
 ## Dashboard Creation
 • A Total Revenue card was created to display overall earnings.<br>
+
+
+![image](https://github.com/user-attachments/assets/08484be7-ed79-427a-a24a-a0a70f520def)
+
+
 • Date sliders were added to filter bookings by month and date.<br>
 • A bar chart showing revenue by customers helped identify top spenders.<br>
 • A bar chart of booking type by date revealed popular services over time.<br>
@@ -89,4 +94,4 @@ Quarterly groupings appeared unexpectedly in Power BI and were removed for accur
 • A Top 5 Customers chart highlighted the highest-paying customers.<br>
 • Donut charts for classtype, instructor, and theme helped analyze customer preferences.<br>
 • Toggle buttons for Confirmed, Pending, and All Bookings allowed easy filtering.<br>
-•The final dashboard provided actionable insights on revenue, bookings, and customer trends.<br>
+• The final dashboard provided actionable insights on revenue, bookings, and customer trends.<br>
