@@ -144,6 +144,8 @@ Most Popular theme is Superhero.<br>
 Top Customer is Customer 79.<br>
 Sales in April were highest with value 46.69 thousand.<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mreegank-Sinha" /> </p>
+
 ![image](https://github.com/user-attachments/assets/ee1bf3d9-b652-41d3-9356-dc74612a0d87)
 
 
